@@ -1,6 +1,6 @@
 
   create or replace  view MY_FIRST_DB.staging.my_second_dbt_model  as (
-    
+    -- Materialization in medel level using macro
 -- Use the `ref` function to select from other models
 
 select *

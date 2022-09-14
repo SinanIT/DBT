@@ -1,4 +1,4 @@
-
+-- Materialization in medel level using macro
 -- Use the `ref` function to select from other models
 
 select *
